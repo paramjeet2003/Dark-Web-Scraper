@@ -64,4 +64,4 @@ To get a local copy up and running, follow these simple steps.
 ### Installation
 1. Clone the repo
    ```sh
-   git clone https://github.com/harshit089/Dark-Web-Scraper.git
+   git clone https://github.com/paramjeet2003/Dark-Web-Scraper.git
